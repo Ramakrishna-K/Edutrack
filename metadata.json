@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack Mobile",
+  "description": "Live Academic & Extracurricular Activity Tracking Platform for Parents and Educators",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
